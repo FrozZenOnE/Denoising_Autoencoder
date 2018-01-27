@@ -16,7 +16,7 @@ num_epochs = 25
 batch_size = 200
 num_display_iterations = 2
 # the first test is executed after the first epoch, regardless of num_tests
-num_tests = 5
+num_tests = 1
 
 # Network Parameters
 num_hidden_1 = 256 # 1st layer num features
